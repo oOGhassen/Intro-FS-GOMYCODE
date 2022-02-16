@@ -1,0 +1,10 @@
+how does the web work :
+when you turn on your machine you'll need a web browser like (chrome/firefox/explore ... ) that allows you to connect to web , after that
+by writing a website url automaticly the browser will send an HTTP request via protocol stack .
+the web server recieve the request and checks it it the page exists the web server sends it, if the server doesnt find it will send HTTP 404 ERROR
+what do you need to be a web developer :
+Any web developer need to master coding languages including HTML and CSS + Frontend web programing languages and skills such as Javascript 
+and backend web programming language such as C# or Java, PHP and Ruby 
+Also a web developer must have knowledge about web servers and their functionalities 
+what's the role of a web developer :
+in base , web developer role must be creating websites and to ensure the website is visually appealing and having good performance for users .  
